@@ -1,0 +1,19 @@
+Java is a high-level programming language originally developed by Sun Microsystems which was initiated by James Gosling and released in 1995 as core component of Sun Microsystems Java platform (Java 1.0 [J2SE]).
+Java runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX.
+Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
+The syntax of Java is largely influenced by C++. Unlike C++, which combines the syntax for structured, generic, and object-oriented programming, Java was built almost exclusively as an object-oriented language. All code is written inside classes, and every data item is an object, with the exception of the primitive data types, (integers, floating-point numbers, boolean values, and characters), which are not objects for performance reasons. Java reuses some popular aspects of C++
+
+Java Features:
+
+Memory Management
+Object oriented but not procedure oriented
+Platform independent
+
+Simple
+
+Secure
+Portable
+Robust
+Includes Compiler and Interpreter
+Exception Handling 
+High performance.

@@ -1,0 +1,19 @@
+The job pattern of an IT company engaged in software development can be seen split in two parts: 
+Software Creation
+ and Software Project Management
+
+. A project is well-defined collection of several actions done in order to achieve a goal. A Project can be characterized as:
+Every project may has a unique and distinct goal.
+ Project is not routine activity .
+ Project comes with a start time and end time.
+ Project ends when its goal is achieved hence it is a temporary phase in the lifetime of an organization.
+ Project needs adequate resources in terms of time, manpower, finance, material and knowledge-bank.
+
+Need of software project management:
+
+
+Software is said to be an intangible product. Software development is a kind of all new stream in world business and there is very little experience in building software products. Most software products are tailor made to fit clients requirements. The most important is that the underlying technology changes and advances so frequently and rapidly that experience of one product may not be applied to the other one. All such business and environmental constraints bring risk in software development hence it is essential to manage software projects efficiently.
+
+
+
+
