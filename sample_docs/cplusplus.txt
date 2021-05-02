@@ -1,0 +1,28 @@
+C++ is a general purpose, case-sensitive, free-form programming language that supports object-oriented, procedural and generic programming.
+
+C++ is a middle-level language, as it encapsulates both high and low level language features.
+
+
+C++ is multi-paradigm. It supports both procedural and object oriented.
+In C++, you can use modifiers for class members to make it inaccessible for outside users.
+C++ follows the bottom-up approach.
+C++ supports function overloading.
+In C++, you can use functions in structure.
+C++ supports reference variables.
+C++ mainly uses stream cin and cout to perform input and output operations.
+Operator overloading is possible in C++.
+C++ programs are divided into functions and classes.
+C++ supports the feature of namespace.
+C++ Features
+Simple
+Mid-level programming language
+Structured programming language
+Rich Library
+Memory Management
+Robust
+Pointers
+Recursion
+Extensible
+Object Oriented
+Compiler based
+Exception Handling
