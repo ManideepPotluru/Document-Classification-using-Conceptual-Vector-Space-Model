@@ -1,0 +1,35 @@
+The C Language is developed for creating system applications that direct interacts to the hardware devices such as drivers, kernals etc.
+
+C programming is considered as the base for other programming languages, that is why it is known as mother language.
+
+It can be defined by following ways:
+
+Mother language
+System programming language
+Structured programming language
+Mid level programming language
+C features:
+C is the widely used language. It provides a lot of features that are given below.
+
+Simple
+Mid-level programming language
+procedure oriented language but not object oriented
+structured programming language
+Rich Library
+Memory Management
+Robust
+Pointers
+Recursion
+Extensible
+Compiler based
+platform dependent
+
+C uses concept of structures (not object oriented).
+In C we use the concept of pointers whereas there are no pointers used in JAVA
+In C the programmer needs to manage memory manually. “malloc()” and “free()” are the fundamental memory allocation library calls.
+In C the declaration of variables should be on the beginning of the block.
+C supports go to statement, struct and union unlike Java
+C is compiled to the machines “native language” so it’s execution is much faster than Java’s.
+No reuse in code and by default members are public.
+C programs will have a larger memory footprint than an equivalent program written in pure machine code, but the total memory use of a C program is much smaller than the a Java program because C does not require the loading of an execution interpreter like the JVM.
+The main differences between Java and C are speed, portability, and object-orientation.
